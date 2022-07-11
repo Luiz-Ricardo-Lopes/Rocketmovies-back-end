@@ -1,0 +1,14 @@
+{
+  "name": "api-rocketmovie",
+  "version": "1.0.0",
+  "description": "API para a aplicação Rocketmovie do Explorer da Rocketseat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Ricardo Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
